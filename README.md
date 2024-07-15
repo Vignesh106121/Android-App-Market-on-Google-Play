@@ -121,9 +121,9 @@ Step 6: Commit and push your changes
 
 Commit your changes to the README file and analysis code/data files.
 Push your changes to GitHub.
-That's it! Your README file should now provide a clear overview of your analysis, and users can access your analysis code and data files by clicking on the links.
+That's it! You should now provide a clear overview of your analysis, and users can access your analysis code and data files by clicking on the links.
 
-Here's an example of what your README file might look like:
+Here's an example of what your code might look like:
 
 markdown
 
